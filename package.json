@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "speaker": "^0.2.2",
+    "lame": "^1.1.2",
+    "musicmetadata": "^0.6.3"
+  }
+}
